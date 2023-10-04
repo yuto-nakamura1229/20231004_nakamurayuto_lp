@@ -239,7 +239,8 @@
   }
 
   .article {
-    margin: 40px 220px;
+    margin: 40px auto;
+    width: 80%;
   }
 
   .blog-wrap{
@@ -283,7 +284,7 @@
     text-align: justify;
   }
   .card-text-box-title {
-    font-size: 14.5px;
+    font-size: 15px;
     color: gray;
     font-weight: bold;
     line-height: 25px;
@@ -298,7 +299,6 @@
   .card-text-box-tag {
     font-size: 12px;
     margin-top: 30px;
-    width: 50%;
     color: rgb(160, 151, 151);
   }
 
