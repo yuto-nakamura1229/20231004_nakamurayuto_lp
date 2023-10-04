@@ -291,17 +291,21 @@
 
   .card-text-box-date {
     font-size: 12px;
-    margin-top: 15px;
-    display: inline-block;
+    margin-top: 30px;
     color: rgb(160, 151, 151);
   }
 
   .card-text-box-tag {
     font-size: 12px;
-    margin-top: 15px;
-    margin-left: 55px;
-    display: inline-block;
+    margin-top: 30px;
+    width: 50%;
     color: rgb(160, 151, 151);
+  }
+
+  .date-tag {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
   }
 
   .blog-link {
